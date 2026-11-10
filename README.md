@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Arlindo Soares
 
-### Junior Software Developer | Full-Stack Developer
+### Junior Software Engineering | Full-Stack Developer
 
 Building modern web applications with Python, Django and React.
 
