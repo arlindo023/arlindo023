@@ -1,36 +1,31 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Arlindo Soares
+# Hi, I'm Arlindo Soares 👋
 
-### Junior Software Developer | Full-Stack Developer
+### Junior Full-Stack Software Developer
 
-Building modern web applications with Python, Django and React.
+Building practical applications with Python, Django, React, and modern web technologies.
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+%7C+Django+Developer;Full-Stack+Web+Developer;Learning+React+%26+REST+API;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Python+%7C+Django+Developer;React+%7C+JavaScript+Learner;Building+Real-World+Applications;Always+Learning+New+Technologies" />
-
-<br/>
-
-<a href="https://github.com/arlindo023">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-</a>
+<p>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-success?style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a Junior Software Developer passionate about building useful, modern and reliable software applications.
-
+- 🎓 Informatics student passionate about software development.
 - 💻 Interested in Full-Stack Web Development.
-- 🐍 Working with Python and Django.
-- ⚛️ Learning React and modern JavaScript.
-- 🗄️ Interested in database design and backend development.
-- 🚀 Building practical applications to solve real-world problems.
-- 📚 Continuously learning and improving my programming skills.
+- 🚀 Building practical applications using Python and Django.
+- 🌱 Currently improving my skills in React, Django REST Framework, and PostgreSQL.
+- 🔧 Interested in software architecture, API development, and deployment.
+- 🎯 My goal is to become a professional Full-Stack Software Engineer.
 
 ---
 
@@ -38,43 +33,48 @@ I'm a Junior Software Developer passionate about building useful, modern and rel
 
 ### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 </p>
 
 ### Frameworks & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=django,react,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=django,react,bootstrap" />
 </p>
 
 ### Database & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=sqlite,postgres,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres,git,github,vscode,docker" />
 </p>
 
 ---
 
-## 💼 Featured Projects
+## 🚀 Featured Projects
 
-### 01. MCR-PORTAL
-**Client Registration & Loan Management System**
+### 1. MCR-PORTAL
+**Digital Client Registration and Loan Application System**
 
-A web-based portal designed to support client registration and online loan applications.
+- Developed using Python and Django.
+- Client registration and account management.
+- Online loan application workflow.
+- Integration with Mifos / Apache Fineract.
+- Audit logging and user access management.
 
-**Technologies:** Python, Django, PostgreSQL, Docker
-
-### 02. Sistema Arkiva Digital
+### 2. Sistema Arkiva Digital
 **Digital Archive Management System**
 
-A digital document management application developed to support incoming and outgoing correspondence management.
+- Developed for Autoridade Municipal Covalima.
+- Digital management of incoming and outgoing letters.
+- Document search and archive management.
+- User and access management.
 
-**Technologies:** Python, Django / Microsoft Access
+### 3. Student Management System
+**Full-Stack Academic Management Application**
 
-### 03. Student Management System
-**Academic Management Application**
-
-A web application for managing student information, including student registration and academic data.
-
-**Technologies:** Django, React, SQLite
+- Frontend: React and Bootstrap.
+- Backend: Django REST Framework.
+- Database: PostgreSQL.
+- Student data management with CRUD operations.
+- REST API integration.
 
 ---
 
@@ -82,23 +82,29 @@ A web application for managing student information, including student registrati
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arlindo023&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=arlindo023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlindo023&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlindo023&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 Contribution Activity
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=arlindo023&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="80%" />
+<img src="https://streak-stats.demolab.com?user=arlindo023&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arlindo023&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" />
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arlindo023&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -106,29 +112,35 @@ A web application for managing student information, including student registrati
 
 ## 🎯 Current Goals
 
-- [ ] Improve Python and Django skills.
-- [ ] Master React fundamentals.
-- [ ] Build professional REST APIs.
-- [ ] Learn advanced database management.
-- [ ] Improve software architecture and security.
-- [ ] Develop and deploy real-world applications.
+- [x] Learn Python and Django fundamentals.
+- [x] Build real-world Django applications.
+- [ ] Master JavaScript and React.
+- [ ] Develop REST APIs using Django REST Framework.
+- [ ] Improve PostgreSQL database design skills.
+- [ ] Learn software testing and clean architecture.
+- [ ] Master Docker and deployment.
+- [ ] Become a professional Full-Stack Software Engineer.
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/arlindo023">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
+</div>
 
-**"Code. Learn. Build. Improve."**
+---
 
-<br/>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0284C7&height=120&section=footer" />
+### 💡 Code. Learn. Build. Improve.
+
+*Always learning, always building.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
 
 </div>
