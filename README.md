@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Arlindo Soares 👋
+# Hi, I'm Arlindo Soares Pereira 👋
 
 ### Junior Full-Stack Software Developer
 
