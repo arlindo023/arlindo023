@@ -1,112 +1,75 @@
-<div align="center">
+<svg width="1000" height="380" viewBox="0 0 1000 380" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#14304a"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#36BCF7"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="45"/>
+    </filter>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#ffffff" opacity="0.08"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1000" height="380" rx="22"/></clipPath>
+  </defs>
 
-<img src="assets/hero.svg" alt="Arlindo Soares Pereira - Full-Stack Software Developer" width="100%" />
+  <g clip-path="url(#clip)">
+    <rect width="1000" height="380" fill="url(#bg)"/>
+    <rect width="1000" height="380" fill="url(#dots)"/>
 
-<br/>
+    <circle cx="860" cy="50" r="130" fill="#36BCF7" opacity="0.35" filter="url(#blur)">
+      <animate attributeName="opacity" values="0.25;0.5;0.25" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="90" cy="350" r="120" fill="#8b5cf6" opacity="0.32" filter="url(#blur)">
+      <animate attributeName="opacity" values="0.45;0.22;0.45" dur="7s" repeatCount="indefinite"/>
+    </circle>
 
-<a href="#about"><img src="https://img.shields.io/badge/ABOUT-0f2027?style=for-the-badge" /></a>
-<a href="#what-i-do"><img src="https://img.shields.io/badge/SERVICES-0f2027?style=for-the-badge" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/STACK-0f2027?style=for-the-badge" /></a>
-<a href="#featured-projects"><img src="https://img.shields.io/badge/PROJECTS-0f2027?style=for-the-badge" /></a>
-<a href="#roadmap"><img src="https://img.shields.io/badge/ROADMAP-0f2027?style=for-the-badge" /></a>
-<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-36BCF7?style=for-the-badge" /></a>
+    <!-- Status pill -->
+    <rect x="60" y="62" width="214" height="30" rx="15" fill="#10b981" opacity="0.14" stroke="#10b981" stroke-opacity="0.5"/>
+    <circle cx="80" cy="77" r="5" fill="#10b981">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="94" y="82" font-size="12" font-weight="600" fill="#6ee7b7" letter-spacing="1.2">OPEN TO OPPORTUNITIES</text>
 
-<br/><br/>
+    <!-- Text -->
+    <text x="60" y="140" font-size="22" fill="#9db4cc">Hi, I'm</text>
+    <text x="60" y="190" font-size="42" font-weight="800" fill="url(#txt)">Arlindo Soares Pereira</text>
+    <text x="60" y="230" font-size="24" font-weight="600" fill="#ffffff">Full-Stack Software Developer</text>
+    <text x="60" y="266" font-size="15" fill="#36BCF7" font-family="'Fira Code', Consolas, monospace">Python  ·  Django  ·  React  ·  PostgreSQL</text>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&height=40&lines=I+build+web+applications+people+actually+use;Python+%C2%B7+Django+%C2%B7+React+%C2%B7+PostgreSQL;Always+learning%2C+always+shipping" alt="Typing SVG" />
+    <!-- Buttons -->
+    <rect x="60" y="298" width="170" height="46" rx="23" fill="url(#txt)"/>
+    <text x="145" y="327" font-size="15" font-weight="700" fill="#0b1220" text-anchor="middle">View My Work</text>
+    <rect x="246" y="299" width="168" height="44" rx="22" fill="none" stroke="#36BCF7" stroke-opacity="0.7" stroke-width="1.5"/>
+    <text x="330" y="327" font-size="15" font-weight="600" fill="#e2f4ff" text-anchor="middle">Get In Touch</text>
 
-<img src="https://komarev.com/ghpvc/?username=arlindo023&label=Profile%20Views&color=36BCF7&style=flat-square" />
-<img src="https://img.shields.io/github/followers/arlindo023?style=flat-square&logo=github&color=203a43" />
+    <!-- Floating code window -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="5s" repeatCount="indefinite"/>
+      <rect x="610" y="62" width="330" height="256" rx="16" fill="#0a1424" stroke="#2a4466" stroke-width="1.2"/>
+      <rect x="610" y="62" width="330" height="36" rx="16" fill="#12223a"/>
+      <rect x="610" y="82" width="330" height="16" fill="#12223a"/>
+      <circle cx="634" cy="80" r="6" fill="#ff5f57"/>
+      <circle cx="654" cy="80" r="6" fill="#febc2e"/>
+      <circle cx="674" cy="80" r="6" fill="#28c840"/>
+      <text x="775" y="84" font-size="11" fill="#6b84a3" font-family="'Fira Code', Consolas, monospace">developer.py</text>
 
-</div>
-
-<br/>
-
-## About
-
-I'm an informatics student with a strong passion for software development. I build practical applications with **Python and Django**, and I'm growing my skills in **React, Django REST Framework, and PostgreSQL**.
-
-I care about clean architecture, solid APIs, and software that solves a real problem for real people, from loan portals to digital archives. My goal is to become a professional **Full-Stack Software Engineer**.
-
-<br/>
-
-## What I Do
-
-<img src="assets/services.svg" alt="Services" width="100%" />
-
-<br/>
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,javascript,react,html,css,bootstrap,postgres,sqlite,docker,git,github,vscode&perline=13" />
-
-</div>
-
-<br/>
-
-## Featured Projects
-
-<div align="center">
-
-<img src="assets/project-mcr.svg" alt="MCR-PORTAL" width="32%" />
-<img src="assets/project-arkiva.svg" alt="Sistema Arkiva Digital" width="32%" />
-<img src="assets/project-student.svg" alt="Student Management System" width="32%" />
-
-<br/><br/>
-
-<a href="https://github.com/arlindo023?tab=repositories"><img src="https://img.shields.io/badge/See%20All%20Repositories%20→-36BCF7?style=for-the-badge&logo=github&logoColor=0f2027" /></a>
-
-</div>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=arlindo023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlindo023&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=arlindo023&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arlindo023&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
-<br/>
-
-## Roadmap
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python%20%26%20Django-Completed-10b981?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Real--World%20Apps-Completed-10b981?style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/JavaScript%20%26%20React-In%20Progress-36BCF7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Django%20REST%20Framework-In%20Progress-36BCF7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PostgreSQL%20Design-In%20Progress-36BCF7?style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/Testing%20%26%20Clean%20Architecture-Up%20Next-8b5cf6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Docker%20%26%20Deployment-Up%20Next-8b5cf6?style=for-the-badge" />
-
-</div>
-
-<br/>
-
-## Contact
-
-<div align="center">
-
-### Let's build something great together.
-
-<a href="https://github.com/arlindo023">
-  <img src="https://img.shields.io/badge/GitHub-arlindo023-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=footer&text=Code.%20Learn.%20Build.%20Improve.&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%" />
-
-</div>
+      <g font-family="'Fira Code', Consolas, monospace" font-size="14">
+        <text x="632" y="128"><tspan fill="#c084fc">class</tspan><tspan fill="#fbbf24"> Developer</tspan><tspan fill="#9db4cc">:</tspan></text>
+        <text x="652" y="156"><tspan fill="#7dd3fc">name</tspan><tspan fill="#9db4cc"> = </tspan><tspan fill="#86efac">"Arlindo"</tspan></text>
+        <text x="652" y="182"><tspan fill="#7dd3fc">role</tspan><tspan fill="#9db4cc"> = </tspan><tspan fill="#86efac">"Full-Stack"</tspan></text>
+        <text x="652" y="208"><tspan fill="#7dd3fc">stack</tspan><tspan fill="#9db4cc"> = [</tspan><tspan fill="#86efac">"Django"</tspan><tspan fill="#9db4cc">,</tspan></text>
+        <text x="716" y="232"><tspan fill="#86efac">"React"</tspan><tspan fill="#9db4cc">,</tspan><tspan fill="#86efac"> "PostgreSQL"</tspan><tspan fill="#9db4cc">]</tspan></text>
+        <text x="652" y="264"><tspan fill="#c084fc">def</tspan><tspan fill="#60a5fa"> build</tspan><tspan fill="#9db4cc">(self):</tspan></text>
+        <text x="672" y="290"><tspan fill="#c084fc">return</tspan><tspan fill="#86efac"> "great apps"</tspan></text>
+      </g>
+      <rect x="826" y="276" width="8" height="18" fill="#36BCF7">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>
