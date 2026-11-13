@@ -4,19 +4,16 @@
 
 <br/>
 
-<a href="#about"><img src="https://img.shields.io/badge/ABOUT-0f2027?style=for-the-badge" /></a>
-<a href="#what-i-do"><img src="https://img.shields.io/badge/SERVICES-0f2027?style=for-the-badge" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/STACK-0f2027?style=for-the-badge" /></a>
-<a href="#featured-projects"><img src="https://img.shields.io/badge/PROJECTS-0f2027?style=for-the-badge" /></a>
-<a href="#roadmap"><img src="https://img.shields.io/badge/ROADMAP-0f2027?style=for-the-badge" /></a>
-<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-36BCF7?style=for-the-badge" /></a>
+<a href="#about"><img src="assets/nav-about.svg" alt="About" height="38" /></a>
+<a href="#what-i-do"><img src="assets/nav-services.svg" alt="Services" height="38" /></a>
+<a href="#tech-stack"><img src="assets/nav-stack.svg" alt="Stack" height="38" /></a>
+<a href="#featured-projects"><img src="assets/nav-projects.svg" alt="Projects" height="38" /></a>
+<a href="#roadmap"><img src="assets/nav-roadmap.svg" alt="Roadmap" height="38" /></a>
+<a href="#contact"><img src="assets/nav-contact.svg" alt="Contact" height="38" /></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&height=40&lines=I+build+web+applications+people+actually+use;Python+%C2%B7+Django+%C2%B7+React+%C2%B7+PostgreSQL;Always+learning%2C+always+shipping" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=arlindo023&label=Profile%20Views&color=36BCF7&style=flat-square" />
-<img src="https://img.shields.io/github/followers/arlindo023?style=flat-square&logo=github&color=203a43" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&height=45&lines=I+build+web+applications+people+actually+use;Python+%C2%B7+Django+%C2%B7+React+%C2%B7+PostgreSQL;REST+APIs+%C2%B7+Docker+%C2%B7+Clean+Architecture;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
 </div>
 
@@ -24,29 +21,48 @@
 
 ## About
 
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<table>
+<tr>
+<td width="48%" valign="top">
+
 I'm an informatics student with a strong passion for software development. I build practical applications with **Python and Django**, and I'm growing my skills in **React, Django REST Framework, and PostgreSQL**.
 
-I care about clean architecture, solid APIs, and software that solves a real problem for real people, from loan portals to digital archives. My goal is to become a professional **Full-Stack Software Engineer**.
+I care about clean architecture, solid APIs, and software that solves a real problem for real people, from loan portals to digital archives.
+
+🎯 **Goal:** become a professional **Full-Stack Software Engineer**.
+
+</td>
+<td width="52%" valign="top" align="center">
+
+<img src="assets/about-code.svg" alt="developer.py" width="100%" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## What I Do
 
-<img src="assets/services.svg" alt="Services" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<img src="assets/services.svg" alt="Backend, Frontend, API and Database" width="100%" />
 
 <br/>
 
 ## Tech Stack
 
-<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<img src="https://skillicons.dev/icons?i=python,django,javascript,react,html,css,bootstrap,postgres,sqlite,docker,git,github,vscode&perline=13" />
-
-</div>
+<img src="assets/stack.svg" alt="Python, Django, JavaScript, React, HTML, CSS, Bootstrap, PostgreSQL, SQLite, Docker, Git, GitHub, VS Code" width="100%" />
 
 <br/>
 
 ## Featured Projects
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
@@ -56,13 +72,15 @@ I care about clean architecture, solid APIs, and software that solves a real pro
 
 <br/><br/>
 
-<a href="https://github.com/arlindo023?tab=repositories"><img src="https://img.shields.io/badge/See%20All%20Repositories%20→-36BCF7?style=for-the-badge&logo=github&logoColor=0f2027" /></a>
+<a href="https://github.com/arlindo023?tab=repositories"><img src="assets/btn-repos.svg" alt="See all repositories" height="56" /></a>
 
 </div>
 
 <br/>
 
 ## GitHub Stats
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
@@ -79,34 +97,22 @@ I care about clean architecture, solid APIs, and software that solves a real pro
 
 ## Roadmap
 
-<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<img src="https://img.shields.io/badge/Python%20%26%20Django-Completed-10b981?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Real--World%20Apps-Completed-10b981?style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/JavaScript%20%26%20React-In%20Progress-36BCF7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Django%20REST%20Framework-In%20Progress-36BCF7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PostgreSQL%20Design-In%20Progress-36BCF7?style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/Testing%20%26%20Clean%20Architecture-Up%20Next-8b5cf6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Docker%20%26%20Deployment-Up%20Next-8b5cf6?style=for-the-badge" />
-
-</div>
+<img src="assets/roadmap.svg" alt="Learning roadmap" width="100%" />
 
 <br/>
 
 ## Contact
 
+<img src="assets/divider.svg" width="100%" alt="" />
+
 <div align="center">
 
 ### Let's build something great together.
 
-<a href="https://github.com/arlindo023">
-  <img src="https://img.shields.io/badge/GitHub-arlindo023-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=footer&text=Code.%20Learn.%20Build.%20Improve.&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%" />
+<a href="https://github.com/arlindo023"><img src="assets/btn-github.svg" alt="github.com/arlindo023" height="56" /></a>
 
 </div>
+
+<img src="assets/footer.svg" alt="Code. Learn. Build. Improve." width="100%" />
