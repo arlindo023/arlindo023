@@ -1,0 +1,8 @@
+<svg width="300" height="56" viewBox="0 0 300 56" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#36BCF7"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.5"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect x="4" y="6" width="292" height="44" rx="22"/></clipPath></defs>
+<rect x="4" y="6" width="292" height="44" rx="22" fill="url(#g)"/>
+<g clip-path="url(#c)"><rect x="-60" y="0" width="50" height="56" fill="url(#sh)" transform="skewX(-20)"><animate attributeName="x" values="-60;320;320" keyTimes="0;0.5;1" dur="3.2s" repeatCount="indefinite"/></rect></g>
+<text x="138" y="34" font-size="15" font-weight="800" fill="#0b1220" text-anchor="middle">See All Repositories</text>
+<path d="M 248 28 h 20 m -7 -7 l 7 7 l -7 7" stroke="#0b1220" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><animateTransform attributeName="transform" type="translate" values="0,0;6,0;0,0" dur="1.2s" repeatCount="indefinite"/></path></svg>
