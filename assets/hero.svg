@@ -1,0 +1,145 @@
+<svg width="1200" height="620" viewBox="0 0 1200 620" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070d1a"/><stop offset="0.55" stop-color="#0e2036"/><stop offset="1" stop-color="#17344f"/></linearGradient>
+  <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect"><stop offset="0" stop-color="#36BCF7"/><stop offset="0.5" stop-color="#a78bfa"/><stop offset="1" stop-color="#36BCF7"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="0 0;2 0" dur="6s" repeatCount="indefinite"/></linearGradient>
+  <linearGradient id="hoodie" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8b7cff"/><stop offset="1" stop-color="#5b4bdb"/></linearGradient>
+  <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1b2f"/><stop offset="1" stop-color="#081224"/></linearGradient>
+  <linearGradient id="desk" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b5a86"/><stop offset="1" stop-color="#2a4468"/></linearGradient>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+  <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#ffffff" opacity="0.07"/></pattern>
+  <clipPath id="clip"><rect width="1200" height="620" rx="26"/></clipPath>
+  <clipPath id="gitclip"><rect x="70" y="552" width="0" height="22"><animate attributeName="width" values="0;0;340;340;0" keyTimes="0;0.08;0.5;0.93;1" dur="10s" repeatCount="indefinite"/></rect></clipPath>
+  <clipPath id="hc0"><rect x="811" y="165" width="0" height="16"><animate attributeName="width" values="0;0;290;290;0" keyTimes="0;0.04;0.09;0.93;1" dur="10s" repeatCount="indefinite"/></rect></clipPath><clipPath id="hc1"><rect x="811" y="183" width="0" height="16"><animate attributeName="width" values="0;0;290;290;0" keyTimes="0;0.12;0.17;0.93;1" dur="10s" repeatCount="indefinite"/></rect></clipPath><clipPath id="hc2"><rect x="811" y="201" width="0" height="16"><animate attributeName="width" values="0;0;290;290;0" keyTimes="0;0.2;0.25;0.93;1" dur="10s" repeatCount="indefinite"/></rect></clipPath><clipPath id="hc3"><rect x="811" y="219" width="0" height="16"><animate attributeName="width" values="0;0;290;290;0" keyTimes="0;0.28;0.33;0.93;1" dur="10s" repeatCount="indefinite"/></rect></clipPath><clipPath id="hc4"><rect x="811" y="237" width="0" height="16"><animate attributeName="width" values="0;0;290;290;0" keyTimes="0;0.36;0.41;0.93;1" dur="10s" repeatCount="indefinite"/></rect></clipPath><clipPath id="hc6"><rect x="811" y="273" width="0" height="16"><animate attributeName="width" values="0;0;290;290;0" keyTimes="0;0.44;0.49;0.93;1" dur="10s" repeatCount="indefinite"/></rect></clipPath><clipPath id="hc7"><rect x="811" y="291" width="0" height="16"><animate attributeName="width" values="0;0;290;290;0" keyTimes="0;0.52;0.57;0.93;1" dur="10s" repeatCount="indefinite"/></rect></clipPath><clipPath id="hc8"><rect x="811" y="309" width="0" height="16"><animate attributeName="width" values="0;0;290;290;0" keyTimes="0;0.6;0.65;0.93;1" dur="10s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="620" fill="url(#bg)"/>
+  <rect width="1200" height="620" fill="url(#dots)"/>
+  <circle cx="10" cy="562" r="1.3" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.7s" begin="2.2s" repeatCount="indefinite"/></circle><circle cx="639" cy="208" r="2.0" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.6s" begin="1.6s" repeatCount="indefinite"/></circle><circle cx="818" cy="392" r="2.1" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.8s" begin="1.1s" repeatCount="indefinite"/></circle><circle cx="845" cy="429" r="0.9" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.4s" begin="1.4s" repeatCount="indefinite"/></circle><circle cx="1098" cy="494" r="1.0" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.8s" begin="2.8s" repeatCount="indefinite"/></circle><circle cx="822" cy="396" r="1.7" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="5.2s" begin="2.7s" repeatCount="indefinite"/></circle><circle cx="449" cy="211" r="2.1" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.2s" begin="0.5s" repeatCount="indefinite"/></circle><circle cx="361" cy="267" r="1.3" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="5.3s" begin="1.7s" repeatCount="indefinite"/></circle><circle cx="871" cy="537" r="0.9" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.0s" begin="1.7s" repeatCount="indefinite"/></circle><circle cx="610" cy="263" r="1.1" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="5.2s" begin="0.2s" repeatCount="indefinite"/></circle><circle cx="441" cy="216" r="1.9" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="5.2s" begin="1.5s" repeatCount="indefinite"/></circle><circle cx="205" cy="253" r="1.3" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.3s" begin="1.3s" repeatCount="indefinite"/></circle><circle cx="402" cy="329" r="1.8" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.8s" begin="2.7s" repeatCount="indefinite"/></circle><circle cx="550" cy="528" r="1.8" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.2s" begin="1.5s" repeatCount="indefinite"/></circle><circle cx="606" cy="423" r="2.3" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.4s" begin="2.1s" repeatCount="indefinite"/></circle><circle cx="306" cy="362" r="1.4" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.2s" begin="1.2s" repeatCount="indefinite"/></circle><circle cx="948" cy="537" r="1.0" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.9s" begin="0.2s" repeatCount="indefinite"/></circle><circle cx="490" cy="102" r="0.9" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="5.5s" begin="0.7s" repeatCount="indefinite"/></circle><circle cx="756" cy="97" r="1.5" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.1s" begin="0.4s" repeatCount="indefinite"/></circle><circle cx="1098" cy="541" r="2.2" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="5.1s" begin="2.7s" repeatCount="indefinite"/></circle><circle cx="908" cy="175" r="0.8" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.9s" begin="0.2s" repeatCount="indefinite"/></circle><circle cx="12" cy="380" r="1.2" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.6s" begin="1.5s" repeatCount="indefinite"/></circle><circle cx="821" cy="153" r="2.2" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.8s" begin="1.1s" repeatCount="indefinite"/></circle><circle cx="1065" cy="81" r="1.6" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.0s" begin="2.7s" repeatCount="indefinite"/></circle><circle cx="762" cy="563" r="0.8" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="5.2s" begin="0.6s" repeatCount="indefinite"/></circle><circle cx="1153" cy="349" r="1.9" fill="#ffffff" opacity="0.1"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.9s" begin="0.7s" repeatCount="indefinite"/></circle>
+  <circle cx="950" cy="230" r="170" fill="#36BCF7" opacity="0.30" filter="url(#blur)"><animate attributeName="opacity" values="0.2;0.4;0.2" dur="6s" repeatCount="indefinite"/></circle>
+  <circle cx="120" cy="560" r="150" fill="#8b5cf6" opacity="0.30" filter="url(#blur)"><animate attributeName="opacity" values="0.4;0.2;0.4" dur="7s" repeatCount="indefinite"/></circle>
+  <circle cx="640" cy="80" r="110" fill="#8b5cf6" opacity="0.14" filter="url(#blur)"/>
+  <circle cx="950" cy="250" r="250" fill="none" stroke="#36BCF7" stroke-opacity="0.22" stroke-dasharray="3 13"><animateTransform attributeName="transform" type="rotate" from="0 950 250" to="360 950 250" dur="90s" repeatCount="indefinite"/></circle>
+  <circle cx="950" cy="250" r="330" fill="none" stroke="#a78bfa" stroke-opacity="0.18" stroke-dasharray="3 15"><animateTransform attributeName="transform" type="rotate" from="360 950 250" to="0 950 250" dur="120s" repeatCount="indefinite"/></circle>
+  <text x="590" y="360" font-size="190" font-weight="800" fill="#ffffff" opacity="0.035" font-family="'Fira Code',Consolas,'DejaVu Sans Mono',monospace">&lt;/&gt;</text>
+
+  <!-- LEFT TEXT -->
+  <rect x="70" y="62" width="222" height="32" rx="16" fill="#10b981" opacity="0.14" stroke="#10b981" stroke-opacity="0.5"/>
+  <circle cx="90" cy="78" r="5" fill="#10b981"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+  <circle cx="90" cy="78" r="5" fill="none" stroke="#10b981"><animate attributeName="r" values="5;14" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="1.8s" repeatCount="indefinite"/></circle>
+  <text x="104" y="83" font-size="12" font-weight="700" fill="#6ee7b7" letter-spacing="1.3">OPEN TO OPPORTUNITIES</text>
+  <text x="70" y="152" font-size="24" fill="#9db4cc">Hi, I'm</text>
+  <text x="70" y="216" font-size="60" font-weight="800" fill="url(#txt)">Arlindo Soares</text>
+  <text x="70" y="282" font-size="60" font-weight="800" fill="url(#txt)">Pereira</text>
+  <text x="70" y="332" font-size="27" font-weight="600" fill="#ffffff">Full-Stack Software Developer</text>
+  <text x="70" y="368" font-size="16" fill="#9db4cc">I build web applications that people actually use.</text>
+  <text x="70" y="410" font-size="15" fill="#36BCF7" font-family="'Fira Code',Consolas,'DejaVu Sans Mono',monospace">Python · Django · React · PostgreSQL · Docker</text>
+  <rect x="70" y="440" width="180" height="50" rx="25" fill="url(#txt)"/>
+  <rect x="70" y="440" width="180" height="50" rx="25" fill="none" stroke="#36BCF7" stroke-width="2">
+    <animate attributeName="x" values="70;58" dur="2.4s" repeatCount="indefinite"/><animate attributeName="y" values="440;428" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="width" values="180;204" dur="2.4s" repeatCount="indefinite"/><animate attributeName="height" values="50;74" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="rx" values="25;37" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="2.4s" repeatCount="indefinite"/></rect>
+  <text x="160" y="471" font-size="16" font-weight="700" fill="#0b1220" text-anchor="middle">View My Work</text>
+  <rect x="266" y="441" width="178" height="48" rx="24" fill="none" stroke="#36BCF7" stroke-opacity="0.75" stroke-width="1.6"/>
+  <text x="355" y="471" font-size="16" font-weight="600" fill="#e2f4ff" text-anchor="middle">Get In Touch</text>
+  <g clip-path="url(#gitclip)"><text x="70" y="568" font-size="14" fill="#6b84a3" font-family="'Fira Code',Consolas,'DejaVu Sans Mono',monospace" xml:space="preserve"><tspan fill="#10b981">$</tspan> <tspan fill="#86efac">git commit</tspan> -m "build something great"</text></g>
+  <rect x="70" y="555" width="8" height="16" fill="#36BCF7"><animate attributeName="x" values="70;70;400;400;70" keyTimes="0;0.08;0.5;0.93;1" dur="10s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></rect>
+
+  <!-- ILLUSTRATION -->
+  <ellipse cx="910" cy="538" rx="320" ry="13" fill="#000" opacity="0.35"/>
+  <rect x="760" y="405" width="460" height="15" rx="6" fill="url(#desk)"/>
+  <rect x="770" y="420" width="430" height="8" fill="#1b2c45"/>
+  <rect x="772" y="428" width="10" height="106" fill="#1b2c45"/>
+  <rect x="1148" y="428" width="10" height="106" fill="#1b2c45"/>
+  <rect x="944" y="360" width="22" height="42" fill="#22344f"/>
+  <rect x="908" y="396" width="94" height="10" rx="5" fill="#2e4768"/>
+  <rect x="800" y="116" width="312" height="246" rx="16" fill="#1a2a42" stroke="#33507a" stroke-width="1.5"/>
+  <rect x="811" y="127" width="290" height="214" rx="9" fill="url(#screen)"/>
+  <rect x="811" y="127" width="290" height="24" rx="9" fill="#12233b"/>
+  <rect x="811" y="140" width="290" height="11" fill="#12233b"/>
+  <circle cx="826" cy="139" r="3.6" fill="#ff5f57"/><circle cx="840" cy="139" r="3.6" fill="#febc2e"/><circle cx="854" cy="139" r="3.6" fill="#28c840"/>
+  <text x="878" y="143" font-size="10" fill="#7f98b8" font-family="'Fira Code',Consolas,'DejaVu Sans Mono',monospace">app.py</text>
+  <rect x="868" y="148" width="44" height="2" fill="#36BCF7"/>
+  <g font-size="10" fill="#3d5a80" font-family="'Fira Code',Consolas,'DejaVu Sans Mono',monospace"><text x="821" y="176">1</text><text x="821" y="194">2</text><text x="821" y="212">3</text><text x="821" y="230">4</text><text x="821" y="248">5</text><text x="821" y="266">6</text><text x="821" y="284">7</text><text x="821" y="302">8</text><text x="821" y="320">9</text></g>
+  <g clip-path="url(#hc0)"><rect x="842" y="169" width="38" height="8" rx="4" fill="#c084fc"/><rect x="886" y="169" width="76" height="8" rx="4" fill="#fbbf24"/><rect x="968" y="169" width="12" height="8" rx="4" fill="#9db4cc"/></g><g clip-path="url(#hc1)"><rect x="860" y="187" width="52" height="8" rx="4" fill="#7dd3fc"/><rect x="918" y="187" width="10" height="8" rx="4" fill="#9db4cc"/><rect x="934" y="187" width="92" height="8" rx="4" fill="#86efac"/></g><g clip-path="url(#hc2)"><rect x="860" y="205" width="38" height="8" rx="4" fill="#7dd3fc"/><rect x="904" y="205" width="10" height="8" rx="4" fill="#9db4cc"/><rect x="920" y="205" width="64" height="8" rx="4" fill="#86efac"/></g><g clip-path="url(#hc3)"><rect x="860" y="223" width="42" height="8" rx="4" fill="#c084fc"/><rect x="908" y="223" width="66" height="8" rx="4" fill="#60a5fa"/><rect x="980" y="223" width="34" height="8" rx="4" fill="#9db4cc"/></g><g clip-path="url(#hc4)"><rect x="878" y="241" width="56" height="8" rx="4" fill="#c084fc"/><rect x="940" y="241" width="84" height="8" rx="4" fill="#86efac"/></g><g clip-path="url(#hc6)"><rect x="842" y="277" width="38" height="8" rx="4" fill="#c084fc"/><rect x="886" y="277" width="82" height="8" rx="4" fill="#fbbf24"/></g><g clip-path="url(#hc7)"><rect x="860" y="295" width="104" height="8" rx="4" fill="#60a5fa"/><rect x="970" y="295" width="42" height="8" rx="4" fill="#9db4cc"/></g><g clip-path="url(#hc8)"><rect x="860" y="313" width="70" height="8" rx="4" fill="#7dd3fc"/><rect x="936" y="313" width="26" height="8" rx="4" fill="#86efac"/></g>
+  <rect x="968" y="313" width="6" height="12" fill="#36BCF7"><animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.70;0.72;0.78;0.84;0.9;0.95;1" dur="10s" repeatCount="indefinite"/></rect>
+  <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.74;0.78;0.93;1" dur="10s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,10;0,10;0,0;0,0;0,10" keyTimes="0;0.74;0.78;0.93;1" dur="10s" repeatCount="indefinite"/>
+    <rect x="984" y="303" width="108" height="26" rx="13" fill="#10b981" fill-opacity="0.16" stroke="#10b981" stroke-opacity="0.55"/>
+    <path d="M 996 316 l 4 4 l 8 -8" stroke="#34d399" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="1014" y="320" font-size="10.5" font-weight="600" fill="#6ee7b7">build passed</text></g>
+  <rect x="808" y="393" width="124" height="12" rx="4" fill="#2f4a6e" stroke="#4a6a96"/>
+  <line x1="814" y1="399" x2="926" y2="399" stroke="#7f9fc8" stroke-width="3" stroke-dasharray="5 3"><animate attributeName="stroke-dashoffset" values="0;-8" dur="0.35s" repeatCount="indefinite"/></line>
+  <rect x="1018" y="396" width="18" height="9" rx="4.5" fill="#2f4a6e" stroke="#4a6a96"/>
+  <rect x="1050" y="372" width="30" height="33" rx="6" fill="#ff7a59"/>
+  <path d="M 1080 380 q 13 2 11 12 q -2 8 -11 8" stroke="#ff7a59" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M 1058 362 q -6 -9 0 -17 q 6 -8 0 -16" stroke="#9db4cc" stroke-width="2.6" fill="none" stroke-linecap="round" opacity="0.4"><animate attributeName="opacity" values="0.1;0.6;0.1" dur="3s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,4;0,-6;0,4" dur="3s" repeatCount="indefinite"/></path>
+  <path d="M 1071 364 q -6 -9 0 -17 q 6 -8 0 -16" stroke="#9db4cc" stroke-width="2.6" fill="none" stroke-linecap="round" opacity="0.4"><animate attributeName="opacity" values="0.55;0.1;0.55" dur="3.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,-6;0,4;0,-6" dur="3.4s" repeatCount="indefinite"/></path>
+  <path d="M 1138 380 h 46 l -6 25 h -34 z" fill="#d97757"/>
+  <rect x="1134" y="374" width="54" height="9" rx="3" fill="#e08a6a"/>
+  <g><animateTransform attributeName="transform" type="rotate" values="-2.5 1161 376;2.5 1161 376;-2.5 1161 376" dur="4s" repeatCount="indefinite"/>
+    <ellipse cx="1148" cy="352" rx="9" ry="24" fill="#22c55e" transform="rotate(-22 1148 372)"/>
+    <ellipse cx="1161" cy="344" rx="9" ry="28" fill="#16a34a"/>
+    <ellipse cx="1175" cy="353" rx="9" ry="23" fill="#4ade80" transform="rotate(24 1175 372)"/></g>
+
+  <rect x="634" y="316" width="26" height="124" rx="13" fill="#26395a" transform="rotate(-6 647 436)"/>
+  <rect x="638" y="438" width="130" height="17" rx="8.5" fill="#2d4468"/>
+  <rect x="697" y="455" width="9" height="56" fill="#1d2d48"/>
+  <path d="M 701 510 L 648 527 M 701 510 L 756 527" stroke="#1d2d48" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="648" cy="531" r="5.5" fill="#3a5378"/><circle cx="756" cy="531" r="5.5" fill="#3a5378"/>
+  <line x1="692" y1="437" x2="798" y2="441" stroke="#1f3b63" stroke-width="36" stroke-linecap="round"/>
+  <g><animateTransform attributeName="transform" type="rotate" values="0 798 441;1.5 798 441;0 798 441" dur="1.6s" repeatCount="indefinite"/>
+    <line x1="798" y1="441" x2="806" y2="510" stroke="#1f3b63" stroke-width="28" stroke-linecap="round"/>
+    <rect x="790" y="508" width="54" height="20" rx="10" fill="#e8eef7"/><rect x="790" y="521" width="54" height="7" rx="3.5" fill="#36BCF7"/></g>
+  <g><animateTransform attributeName="transform" type="translate" values="0,0;0,-1.2;0,0" dur="2.4s" repeatCount="indefinite"/>
+    <rect x="660" y="322" width="78" height="128" rx="34" fill="url(#hoodie)" transform="rotate(6 699 386)"/>
+    <ellipse cx="674" cy="346" rx="19" ry="15" fill="#6d5df0"/>
+    <path d="M 712 372 q 6 18 4 34" stroke="#ffffff" stroke-opacity="0.55" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <rect x="707" y="306" width="19" height="28" rx="9" fill="#d29b78"/>
+    <g><animateTransform attributeName="transform" type="rotate" values="0 716 320;2.5 716 320;0 716 320;-1.5 716 320;0 716 320" dur="3.2s" repeatCount="indefinite"/>
+      <ellipse cx="716" cy="277" rx="34" ry="31" fill="#1b1f3b"/>
+      <circle cx="731" cy="289" r="27" fill="#e8b48f"/>
+      <path d="M 704 262 C 716 244, 748 246, 756 266 C 742 258, 722 258, 704 262 Z" fill="#1b1f3b"/>
+      <path d="M 756 286 q 9 6 0 11" fill="#e8b48f"/>
+      <ellipse cx="746" cy="284" rx="2.4" ry="2.4" fill="#1b1f3b"><animate attributeName="ry" values="2.4;2.4;0.2;2.4" keyTimes="0;0.92;0.96;1" dur="4s" repeatCount="indefinite"/></ellipse>
+      <rect x="738" y="277" width="19" height="15" rx="5.5" fill="none" stroke="#36BCF7" stroke-width="2"/>
+      <line x1="738" y1="283" x2="718" y2="281" stroke="#36BCF7" stroke-width="2"/>
+      <path d="M 745 302 q 5 3 10 0" stroke="#a8654a" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+      <path d="M 714 281 C 696 228, 752 226, 752 258" stroke="#36BCF7" stroke-width="5" fill="none" stroke-linecap="round"/>
+      <circle cx="714" cy="289" r="15" fill="#36BCF7"/><circle cx="714" cy="289" r="8" fill="#0f2238"/>
+      <circle cx="714" cy="289" r="8" fill="none" stroke="#36BCF7" stroke-width="1.5"><animate attributeName="r" values="8;15" dur="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="1.2s" repeatCount="indefinite"/></circle>
+    </g>
+    <line x1="708" y1="352" x2="742" y2="398" stroke="#6d5df0" stroke-width="24" stroke-linecap="round"/>
+  </g>
+  <g><animateTransform attributeName="transform" type="rotate" values="0 742 398;-3.2 742 398;0 742 398;2.2 742 398;0 742 398" dur="0.7s" repeatCount="indefinite"/>
+    <line x1="742" y1="398" x2="812" y2="392" stroke="#8b7cff" stroke-width="20" stroke-linecap="round"/>
+    <circle cx="824" cy="391" r="10" fill="#e8b48f"/></g>
+
+  <!-- FLOATING BADGES -->
+  
+    <g><animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="5s" repeatCount="indefinite"/>
+      <rect x="800" y="52" width="104" height="36" rx="18" fill="#0d1b2f" stroke="#3776AB" stroke-width="1.5"/>
+      <circle cx="821" cy="70" r="8" fill="#ffd43b"/><circle cx="821" cy="70" r="4" fill="#3776AB"/>
+      <text x="838" y="76" font-size="14" font-weight="700" fill="#e2f4ff">Python</text></g>
+  
+    <g><animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="6s" repeatCount="indefinite"/>
+      <rect x="918" y="30" width="104" height="36" rx="18" fill="#0d1b2f" stroke="#2f9e6b" stroke-width="1.5"/>
+      <circle cx="939" cy="48" r="8" fill="#0c4b33"/><text x="939" y="52" font-size="10" font-weight="800" fill="#7dd3a8" text-anchor="middle">dj</text>
+      <text x="954" y="54" font-size="14" font-weight="700" fill="#e2f4ff">Django</text></g>
+  
+    <g><animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="4.5s" repeatCount="indefinite"/>
+      <rect x="1038" y="62" width="100" height="36" rx="18" fill="#0d1b2f" stroke="#61DAFB" stroke-width="1.5"/>
+      <g transform="translate(1059 80)" fill="none" stroke="#61DAFB" stroke-width="1.5"><ellipse rx="9" ry="3.6"/><ellipse rx="9" ry="3.6" transform="rotate(60)"/><ellipse rx="9" ry="3.6" transform="rotate(120)"/><circle r="2" fill="#61DAFB" stroke="none"/><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="8s" additive="sum" repeatCount="indefinite"/></g>
+      <text x="1076" y="86" font-size="14" font-weight="700" fill="#e2f4ff">React</text></g>
+  
+    <g><animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="5.5s" repeatCount="indefinite"/>
+      <rect x="592" y="168" width="138" height="36" rx="18" fill="#0d1b2f" stroke="#336791" stroke-width="1.5"/>
+      <ellipse cx="614" cy="180" rx="8" ry="3.2" fill="#6aa3d5"/><path d="M 606 180 v 12 a 8 3.2 0 0 0 16 0 v -12" fill="#336791"/><ellipse cx="614" cy="180" rx="8" ry="3.2" fill="#6aa3d5"/>
+      <text x="632" y="192" font-size="14" font-weight="700" fill="#e2f4ff">PostgreSQL</text></g>
+  
+    <g><animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="4s" repeatCount="indefinite"/>
+      <rect x="580" y="244" width="100" height="36" rx="18" fill="#0d1b2f" stroke="#2496ed" stroke-width="1.5"/>
+      <rect x="594" y="256" width="5" height="5" fill="#2496ed"/><rect x="600" y="256" width="5" height="5" fill="#2496ed"/><rect x="606" y="256" width="5" height="5" fill="#2496ed"/><rect x="600" y="250" width="5" height="5" fill="#2496ed"/><path d="M 590 263 h 28 q 2 8 -10 9 h -10 q -8 -2 -8 -9 z" fill="#2496ed"/>
+      <text x="626" y="268" font-size="14" font-weight="700" fill="#e2f4ff">Docker</text></g>
+</g>
+</svg>
